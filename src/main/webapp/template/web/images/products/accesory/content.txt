@@ -1,0 +1,147 @@
+//Tai nghe Bluetooth True Wireless LG TONE-FP5 
+INSERT INTO product(name,shortdescription,thumbnail,price,category_id) VALUES('Tai nghe Bluetooth True Wireless LG TONE-FP5  ','<ul>
+                <li>
+                  <strong>Thời gian tai nghe</strong>: Dùng 8 giờ - Sạc 1 giờ
+                </li>
+                <li>
+                  <strong>Thời gian hộp sạc</strong>: Dùng 22 giờ - Sạc 2 giờ
+                </li>
+                <li>
+                  <strong>Công nghệ âm thanh:</strong>: Active Noise CancellationMeridian
+                </li>
+                <li>
+                  <strong>Tương thích:</strong>: Android, iOS (iPhone, iPad), Windows
+                </li>
+                
+                <li>
+                  <strong>Tiện ích:</strong>Chống nước IPX4, Chống ồn, Sạc không dây
+                </li>
+                
+                <li>
+                  <strong>Hỗ trợ kết nối:</strong>: Bluetooth 5.2
+                </li>
+              </ul>','template/web/images/products/accesory/FP5.jpg',2.765.000₫,4);
+
+//Mo Ta Dai:
+Đặc điểm nổi bật
+
+Thiết kế gọn nhẹ, có gel silicone không gây dị ứng. 
+Tận hưởng âm thanh chất lượng cao, mạnh mẽ với công nghệ âm thanh của Meridian.
+Đắm chìm trong âm thanh bạn đang nghe với công nghệ Active Noise Cancellation khử ồn chủ động.
+Tai nghe cho 8 giờ sử dụng, hộp sạc cho 16 giờ khi tắt ANC.
+Hỗ trợ sạc nhanh 5 phút dùng được 1 giờ.
+Bộ EQ và nhiều chế độ âm thanh dễ tùy chỉnh với ứng dụng Tone Free.
+Sử dụng ngoài trời thoải mái với chuẩn chống nước IPX4.
+Điều khiển cảm ứng chạm dễ tăng/giảm âm lượng, chuyển bài hát, trả lời cuộc gọi,...
+
+Thiết kế theo hình loa tai gọn đẹp
+Housing thiết kế đường viền độc đáo mới được phát triển dựa trên quá trình phân tích hàng trăm tai người giúp đảm bảo sự vừa khít và phong cách cho bạn khi sử dụng. Hộp sạc tai nghe LG được chỉnh chu với độ hoàn thiện cao, đặt housing kiểu nằm ngang dễ nhấc và đặt vào, sạc và bảo vệ tối ưu. 2 phiên bản thời trang gồm trắng nhã nhặn và đen lịch lãm. 
+
+Nút tai là miếng gel được xác nhận đạt tiêu chuẩn y tế, làm từ silicone không độc hại, không gây dị ứng, đeo thoải mái ngay cả khi phải sử dụng cả ngày dài. Có 3 kích cỡ cho bạn dễ dàng lựa chọn. 
+
+
+// Pin sạc dự phòng Polymer 15.000 mAh Type C PD QC3.0 Xmobile PowerBox P72D
+
+INSERT INTO product(name,shortdescription,thumbnail,price,category_id) VALUES('Pin sạc dự phòng Polymer 15.000 mAh Type C PD QC3.0 Xmobile PowerBox P72D','<ul>
+                <li>
+                  <strong>Hiệu suất sạc</strong>: 65%
+                </li>
+                <li>
+                  <strong>Dung lượng pin</strong>: 15.000 mAh
+                </li>
+                <li>
+                  <strong>Thời gian sạc đầy pin</strong>:10 - 11 giờ (dùng Adapter 2A)
+                </li>
+                <li>
+                  <strong>Nguồn vào</strong>: Micro USB: 5V - 2A, 9V - 2AType C: 5V - 3A, 9V - 2A
+                </li>
+                
+                <li>
+                  <strong>Nguồn ra:</strong>:Type-C PD: 5V - 3A, 9V - 2A, 12V - 1.5AUSB QC: 5V - 2.4A, 9V - 2A, 12V - 1.5A
+                </li>
+                
+                <li>
+                  <strong>Lõi pin:</strong>: pPolymer
+                </li>
+              </ul>','template/web/images/products/accesory/P72D.png',765.000₫,4);
+
+//Mo Ta Dai:
+Thiết kế đẹp mắt, vỏ ngoài phủ chất liệu Fabric chống bám vân tay
+Pin sạc dự phòng Polymer 15.000mAh Type C PD QC3.0 Xmobile PowerBox P72D xanh sở hữu kiểu dáng tinh tế, gam màu xanh nổi bật từ mọi góc nhìn, bề mặt phủ Fabric hạn chế trầy xước, tăng tính thẩm mỹ, kích cỡ nhỏ nhắn, cầm vừa tay.
+
+Đồng thời sạc cho 3 thiết bị nhanh chóng nhờ hỗ trợ các công nghệ sạc tiên tiến
+Cực tiết kiệm thời gian khi chọn dùng Xmobile PowerBox P72D, pin sạc dự phòng được thiết kế 2 cổng USB tích hợp công nghệ Quick Charge 3.0, 1 cổng Type C Power Delivery đảm bảo dòng sạc được điều chỉnh phù hợp với thiết bị, nạp pin mau mà an toàn cho nhiều loại điện thoại, máy tính bảng.
+
+Khi sạc dự phòng sắp hết pin, người dùng sạc lại qua cổng Micro USB hoặc Type C, cả 2 cổng sạc vào đều khá thông dụng nên bạn lựa chọn cáp sạc dễ dàng, dùng adapter 2A thì thời gian sạc đầy tầm 10 - 11 tiếng.
+
+//Tai nghe Bluetooth Beats Flex MYMC2/ MYMD2
+
+INSERT INTO product(name,shortdescription,thumbnail,price,category_id) VALUES('Tai nghe Bluetooth Beats Flex MYMC2/ MYMD2','<ul>
+                <li>
+                  <strong>Pin:</strong>: Dùng 12 giờ - Sạc 2 giờ
+                </li>
+                <li>
+                  <strong>Cổng sạc:</strong>: Type-C
+                </li>
+                <li>
+                  <strong>Công nghệ âm thanh:</strong>: Audio Sharing
+                </li>
+                <li>
+                  <strong>Tiện ích:</strong>: Android, iOS(iPhone), Windows
+                </li>
+                
+                <li>
+                  <strong>Tiện ích:</strong>Sạc nhanh,Đệm tai đi kèm
+                </li>
+                
+                <li>
+                  <strong>Điều khiển bằng:</strong>Phím nhấn
+                </li>
+              </ul>','template/web/images/products/watch/MYMD.jpg',1.290.000₫,4);
+
+//Mo Ta Dai:
+Beats Flex thiết kế kiểu vòng cổ sành điệu, phù hợp cho người chơi thể thao
+Tai nghe Bluetooth ghi dấu ấn với các tín đồ tai nghe Beats (Apple) với kiểu dáng gọn nhẹ, có 2 phiên bản màu đen và vàng Yuzu thuần khiết, đẹp mắt, giúp tạo phong cách năng động, thời thượng cho cả phái mạnh và phái đẹp.
+
+Tai nghe Bluetooth Beats Flex MYMC2/ MYMD2 - Thiết kế kiểu vòng cổ sành điệu
+
+2 củ tai được bao bọc bởi 4 mẫu nút đệm khác thiết kế (1 cặp gắn trực tiếp lên tai nghe, 3 cặp rời) cho bạn dễ dàng thay đổi tùy theo khuôn tai và cảm nhận của mình để đảm bảo đeo tai nghe phù hợp, sử dụng tiện lợi và thoải mái nhất.
+
+Tai nghe Bluetooth Beats Flex MYMC2/ MYMD2 - 2 củ tai được bao bọc bởi 4 mẫu nút đệm khác thiết kế
+
+Tai nghe từ tính, khi không sử dụng bạn có thể chạm 2 củ tai lại với nhau, thao tác này giúp hạn chế rối dây và thất lạc tối đa. Đặc biệt, còn hỗ trợ tính năng tự động dừng, phát nhạc thông minh bằng cách người dùng đặt 2 đầu củ tai hít vào nhau thì âm nhạc sẽ được dừng lại còn khi đeo củ tai vào tai, âm nhạc sẽ được phát tiếp. 
+//Tai nghe Bluetooth Samsung Level U Pro BN920C
+
+INSERT INTO product(name,shortdescription,thumbnail,price,category_id) VALUES('Tai nghe Bluetooth Samsung Level U Pro BN920C','<ul>
+                <li>
+                  <strong>Pin:Dùng 9 giờ - Sạc 3 giờ</strong>Dùng 9 giờ - Sạc 3 giờ
+                </li>
+                <li>
+                  <strong>Công nghệ âm thanh</strong>: Giảm tiếng ồn NR/EC
+                </li>
+                <li>
+                  <strong>Tương thích:</strong>:Android, iOS (iPhone), Windows, Windows Phone
+                </li>
+                <li>
+                  <strong>Tiện ích:</strong>: Có mic thoại, Đệm tai đi kèm, Tai nghe nhét tai
+                </li>
+                
+                <li>
+                  <strong>Điều khiển bằng:</strong>Phím nhấn
+                </li>
+                
+                
+              </ul>','template/web/images/products/accesory/u-pro.jpeg',1.450.000,4);
+
+
+
+//Mo Ta Dai:
+Đặc điểm nổi bật
+
+Đệm tai được thiết kế mềm mại, linh hoạt.
+Cung cấp hơn 9 giờ nghe nhạc, 9 giờ đàm thoại và 300 giờ cho thời gian chờ.
+Chất lượng âm thanh tuyệt hảo nhờ công nghệ giảm tiếng ồn NR và EC.
+Kết nối nam châm giữa hai đầu tai nghe của Level U sẽ giữ tai nghe khi không sử dụng.
+Dung lượng pin 200 mAh (lõi pin Li-Ion). Thời gian sạc trung bình khoảng 3 giờ.
+Sản phẩm chính hãng Samsung.
+

@@ -1,0 +1,146 @@
+// Vòng đeo tay thông minh Mi Band 5 
+INSERT INTO product(name,shortdescription,thumbnail,price,category_id) VALUES('Vòng đeo tay thông minh Mi Band 5 ','<ul>
+                <li>
+                  <strong>Màn hình</strong>: AMOLED1.1 inch
+                </li>
+                <li>
+                  <strong>Hệ điều hành</strong>: Android 5.0 trở lêniOS 10 trở lên
+                </li>
+                <li>
+                  <strong>Mặt</strong>: Kính cường lực 19mm
+                </li>
+                <li>
+                  <strong>Dây</strong>: 22.6 cm
+                </li>
+                
+                <li>
+                  <strong>Lưu trữ</strong>: 16 MB
+                </li>
+                
+                <li>
+                  <strong>Pin, Sạc</strong>: Khoảng 14 ngày
+                </li>
+              </ul>','template/web/images/products/watch/miband5.jpg',590000,3);
+
+//Mo Ta Dai:
+Vòng đeo tay thông minh Mi Band 5 có màn hình 1.1 inch cùng độ phân giải là 126 x 294 pixels, lớn hơn so với phiên bản 0.95 inch của Mi Band 4. Mật độ điểm ảnh trên Mi Band 5 được nâng cấp lên đến 300ppi, vì thế người dùng có thể quan sát các thông báo rõ ràng trên màn hình. Dây đeo làm từ silicone với thiết kế ôm trọn cổ tay, mang lại cảm giác vô cùng mềm mại và không bị phai màu khi sử dụng sau một thời gian dài.
+
+Màn hình cảm ứng AMOLED và độ sáng tối đa của bảng điều khiển được tăng cường lên ngưỡng 450 nits, điều này giúp nâng cao chất lượng hình ảnh đầu ra từ các vị trí góc nhìn mở rộng, cho khả năng hiển thị ngoài trời được tốt hơn. Mặt kính cường lực bảo vệ đồng hồ khi va đập và trầy xước, tăng độ bền cho thiết bị.
+
+Mi Band 5 sử dụng công nghệ Bluetooth 5.0, có khả năng kết nối điện thoại qua ứng dụng Mifit, người dùng có thể cài đặt chế độ tùy chỉnh cho phép đồng hồ hiển thị tin nhắn, cuộc gọi, các thông báo ứng dụng (Zalo, Messenger, Gmail,…) vô cùng tiện lợi khi người dùng đang lái xe, không tiện mở điện thoại ra xem, tránh bỏ lỡ các thông báo quan trọng.
+
+Lưu ý: Tương thích với điện thoại chạy hệ điều hành iOS 10 trở lên và Android 5.0 trở lên.
+
+// Apple Watch
+
+INSERT INTO product(name,shortdescription,thumbnail,price,category_id) VALUES('Apple Watch SE 40mm viền nhôm dây cao su','<ul>
+                <li>
+                  <strong>Màn hình</strong>: OLED 1.57 inch
+                </li>
+                <li>
+                  <strong>Hệ điều hành</strong>: WatchOS 7.0
+                </li>
+                <li>
+                  <strong>Mặt</strong>: Ion-X strengthened glass 40 mm
+                </li>
+                <li>
+                  <strong>Tính năng sức khỏe</strong>: Chế độ luyện tập ,Theo dõi giấc ngủ, Tính lượng calories tiêu thụ, tính quãng đường chạy, Đo nhịp tim, Đếm số bước chân
+                </li>
+                
+                <li>
+                  <strong>Lưu trữ</strong>: 32 GB
+                </li>
+                
+                <li>
+                  <strong>Pin, Sạc</strong>: Khoảng 1.5 ngày
+                </li>
+              </ul>','template/web/images/products/watch/applewatchse40mm.jpg',590000,3);
+
+//Mo Ta Dai:
+Apple Watch SE 40mm viền nhôm dây cao su hồng có khung viền chắc chắn, thiết kế bo tròn 4 góc giúp thao tác vuốt chạm thoải mái hơn. Mặt kính cường lực Ion-X strengthened glass với kích thước 1.57 inch, hiển thị rõ ràng. Khung viền nhôm chắc chắn cùng dây đeo cao su có độ đàn hồi cao, êm ái, tạo cảm giác thoải mái khi đeo.
+
+Apple Watch SE được trang bị chip S5 cho tốc độ xử lý nhanh gấp 2 lần so với phiên bản Apple Watch S3, giúp đồng hồ hoạt động mượt mà, ổn định, đem lại những trải nghiệm thú vị.
+
+
+Ở phiên bản này, hệ điều hành WatchOS 7.0 sẽ bổ sung và nâng cấp hơn 40 tính năng mới như: Phát hiện rửa tay, Siri dịch nhanh, thêm nhiều giao diện mới, chia sẻ mặt đồng hồ, theo dõi giấc ngủ được chi tiết hơn, luyện tập thể thao nâng cao, cải tiến Siri, nâng cao bảo mật,...
+
+
+Màn hình của đồng hồ sử dụng tấm nền OLED với độ phân giải 324 x 394 pixels, mang đến độ sắc nét chân thực, màu sắc rõ ràng và đẹp mắt. Bên cạnh đó, mặt kính cường lực Ion-X strengthened glass chịu lực tốt, giúp bảo vệ đồng hồ an toàn trước các va chạm thường ngày.
+
+- Đồng hồ được tích hợp tính năng theo dõi nhịp tim tiện lợi. Kết quả được hiển thị dưới dạng thông số cho bạn dễ dàng theo dõi và có những biện pháp chăm sóc sức khỏe hợp lý.
+
+- Tính năng theo dõi giấc ngủ cung cấp cho bạn những thông tin như chất lượng giấc ngủ, khoảng thời gian người dùng thức hoặc thời gian ngủ trung bình, giúp bạn đánh giá được tình trạng của mình và thay đổi để xây dựng thói quen đi ngủ đều đặn, tốt cho sức khỏe. Ngoài ra, tính năng này còn đưa ra một số lời khuyên để bạn cải thiện giấc ngủ của mình được tốt hơn. Tuy nhiên, người dùng cần phải đeo đồng hồ trong lúc ngủ thì mới có thể thực hiện tính năng này.
+
+
+INSERT INTO product(name,shortdescription,thumbnail,price,category_id) VALUES('Samsung Galaxy Watch 4 LTE 40mm','<ul>
+                <li>
+                  <strong>Màn hình</strong>: SUPER AMOLED 1.19 inch
+                </li>
+                <li>
+                  <strong>Kết nối với hệ điều hành:</strong>: Android dùng Google Mobile Service
+                </li>
+                <li>
+                  <strong>Mặt</strong>: Kính cường lực Gorrilla Glass Dx+40 mm
+                </li>
+                <li>
+                  <strong>Tính năng sức khỏe</strong>: Theo dõi giấc ngủ, Đo nhịp tim, Đo nồng độ oxy (SpO2), Đếm số bước chân
+                </li>
+                
+                <li>
+                  <strong>Lưu trữ</strong>: 16 GB
+                </li>
+                
+                <li>
+                  <strong>Pin, Sạc</strong>: Khoảng 1.5 ngày
+                </li>
+              </ul>','template/web/images/products/watch/galaxywatch.jpg',7.490.000,3);
+
+//
+Samsung Galaxy Watch 4 LTE nổi bật bởi thiết kế thời trang với khung viền nhôm cứng cáp, dây đeo silicone chắc chắn cùng viền xoay cảm ứng đặc trưng của thương hiệu điện tử Samsung. Phiên bản 40mm này phù hợp với các bạn bạn trẻ năng động, ưa thích mang đồng hồ ngay cả khi hoạt động thể thao mà vẫn giữ được vẻ thanh lịch nhờ thiết kế nhỏ gọn cùng mặt đồng hồ tròn cổ điển. 
+
+Đây được xem là bước đột phá lớn của Samsung trong lĩnh vực công nghệ trên thế giới nói chung cũng như Việt Nam nói riêng, khi cho ra mắt chiếc đồng hồ thông minh đầu tiên sử dụng hệ điều hành Wear OS - giao diện One UI Watch, giúp người dùng có một trải nghiệm liền mạch và gắn kết hơn với hệ sinh thái SamSung. 
+
+Hệ điều hành Wear OS cải tiến và giao diện One UI Watch tiện nghi 
+Galaxy Watch 4 LTE sẽ là chiếc đồng hồ thông minh đầu tiên tương thích với hệ điều hành One UI Watch 3.5 - một hệ điều hành được phát triển bởi Samsung và Google - cho phép người dùng có những trải nghiệm mượt mà, tiện nghi khi các ứng dụng được tải trên điện thoại sẽ tự động tải xuống trên đồng hồ hay các cài đặt quan trọng cũng được đồng bộ hóa ngay lập tức. 
+
+
+INSERT INTO product(name,shortdescription,thumbnail,price,category_id) VALUES('Oppo Watch 46mm dây silicone đen','<ul>
+                <li>
+                  <strong>Màn hình</strong>: AMOLED 1.91 inch
+                </li>
+                <li>
+                  <strong>Kết nối với hệ điều hành:</strong>: Android 6.0 trở lên (trừ Android Go), iOS 12 trở lên
+                </li>
+                <li>
+                  <strong>Mặt</strong>: Kính cường lực 46 mm
+                </li>
+                <li>
+                  <strong>Tính năng sức khỏe</strong>: Chế độ luyện tập, Theo dõi giấc ngủ, Tính lượng calories tiêu thụ, Tính quãng đường chạy, Đo nhịp tim, Đếm số bước chân
+                </li>
+                
+                <li>
+                  <strong>Lưu trữ</strong>: 16 GB
+                </li>
+                
+                <li>
+                  <strong>Pin, Sạc</strong>: Khoảng 21 ngày (chế độ tiết kiệm pin), Khoảng 36 giờ (chế độ thường)
+                </li>
+              </ul>','template/web/images/products/watch/oppowatch.jpg',5.752.000,3);
+
+
+
+//Mota
+Đồng hồ thông minh Oppo Watch màu đen phiên bản 46mm sử dụng mặt đồng hồ vuông, bo cong nhẹ ở 4 cạnh, cùng với mặt kính bo cong 2D sang hai bên có chiều sâu tạo cảm giác như mặt kính cong 3D, màn hình AMOLED 1.91 inch độ phân giải 402 x 476 pixels, mật độ điểm ảnh 326 ppi và dải màu rộng chuẩn DCI-P3 cho chất lượng hiển thị sắc nét, sống động. Dây đeo silicone cho cảm giác mang được dễ chịu và thoải mái.
+
+Dù vẻ ngoài khá giống với Apple Watch, tuy nhiên Oppo Watch vẫn có một số điểm khác như:
+
+- Cạnh phải là nơi đặt hai phím cứng, trong đó phím home có thêm đường chỉ xanh chạy dọc.
+
+- Cạnh trái là nơi đặt loa ngoài dùng để phát nhạc, cũng như đàm thoại.
+
+- Mặt sau được trang bị các cảm biến để đo nhịp tim và logo thương hiệu OPPO.
+
+
+Oppo Watch hỗ trợ kết nối với smartphone thông qua chuẩn Bluetooth v4.2 tương thích với Android, iOS cho phép bạn dễ dàng đồng bộ điện thoại và smartwatch để nhận các thông báo tin nhắn SMS, Zalo, Messenger,… nghe nhận cuộc gọi (chỉ nghe gọi được trên điện thoại Android).
+
+Ngoài ra Oppo Watch còn hỗ trợ kết nối Wi-Fi và định vị GPS cho phép bạn dễ dàng kết nối với điện thoại cũng như dễ dàng xác định vị trí của mình.

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DoAnWeb:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoAnWeb_war</output-path>
+    <root id="archive" name="DoAnWeb_war.war">
+      <element id="artifact" artifact-name="DoAnWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
